@@ -1,0 +1,17 @@
+{
+    "name": "as/configuration",
+    "description": "Configuration component for AS",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "As\\Configuration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Putera Kahfi",
+            "email": "pkahfi@dwebsite.net"
+        }
+    ],
+    "require": {}
+}
