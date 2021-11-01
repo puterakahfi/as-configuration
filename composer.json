@@ -13,5 +13,6 @@
             "email": "pkahfi@dwebsite.net"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
