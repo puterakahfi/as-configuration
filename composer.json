@@ -1,5 +1,5 @@
 {
-    "name": "as/configuration",
+    "name": "asteam/configuration",
     "description": "Configuration component for AS",
     "type": "library",
     "autoload": {
